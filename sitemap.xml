@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/04/05/hello-world-1/</loc>
-    
-    <lastmod>2018-04-05T09:31:36.896Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/ChinaAchilles.github.io/index.html</loc>
     
     <lastmod>2018-04-05T09:05:54.961Z</lastmod>
@@ -30,14 +23,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/ChinaAchilles.github.io/archives/2018/04/index.html</loc>
+    <loc>http://yoursite.com/ChinaAchilles.github.io/archives/2018/index.html</loc>
     
     <lastmod>2018-04-05T09:05:54.954Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/ChinaAchilles.github.io/archives/2018/index.html</loc>
+    <loc>http://yoursite.com/ChinaAchilles.github.io/archives/2018/04/index.html</loc>
     
     <lastmod>2018-04-05T09:05:54.954Z</lastmod>
     
