@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-05T09:16:08.762Z</updated>
+  <updated>2018-04-05T08:45:43.820Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,44 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my_new_post</title>
+    <title></title>
     <link href="http://yoursite.com/2018/04/05/my-new-post/"/>
     <id>http://yoursite.com/2018/04/05/my-new-post/</id>
     <published>2018-04-05T07:42:27.646Z</published>
-    <updated>2018-04-05T09:16:08.762Z</updated>
+    <updated>2018-04-05T08:45:43.820Z</updated>
     
-    <content type="html"><![CDATA[<p>date: 2018-04-05 15:30:19</p><hr><h2 id="tags"><a href="#tags" class="headerlink" title="tags:"></a>tags:</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;date: 2018-04-05 15:30:19&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;tags&quot;&gt;&lt;a href=&quot;#tags&quot; class=&quot;headerlink&quot; title=&quot;tags:&quot;&gt;&lt;/a&gt;tags:&lt;/h2&gt;
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hello world.</title>
-    <link href="http://yoursite.com/2018/04/05/hello-world-1/"/>
-    <id>http://yoursite.com/2018/04/05/hello-world-1/</id>
-    <published>2018-04-04T18:52:18.457Z</published>
-    <updated>2018-04-05T09:16:19.259Z</updated>
-    
-    <content type="html"><![CDATA[<p>My first github hexo blog.</p><p>date: 2018-04-05 02:49:11</p><h2 id="tags"><a href="#tags" class="headerlink" title="tags:"></a>tags:</h2>]]></content>
+    <content type="html"><![CDATA[<hr><p>title: my_new_post<br>date: 2018-04-05 15:30:19<br>tags:</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;My first github hexo blog.&lt;/p&gt;
-&lt;p&gt;date: 2018-04-05 02:49:11&lt;/p&gt;
-&lt;h2 id=&quot;tags&quot;&gt;&lt;a href=&quot;#tags&quot; class=&quot;headerlink&quot; title=&quot;tags:&quot;&gt;&lt;/a&gt;tags:&lt;
+        &lt;hr&gt;
+&lt;p&gt;title: my_new_post&lt;br&gt;date: 2018-04-05 15:30:19&lt;br&gt;tags:&lt;/p&gt;
+
       
     
     </summary>
