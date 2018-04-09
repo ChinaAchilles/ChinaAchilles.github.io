@@ -62,11 +62,8 @@
                 });
             }).join('');
         } else {
-            html = '<div class="'<a href="http://service.weibo.com/share/share.php?&title=�ö�����Ҫһ�����&language=zh_cn&url=' + encodedUrl + '" class="article-share-sina" target="_blank" title="΢��"></a>',
-'<a href="http://share.renren.com/share/buttonshare.do?link=' + encodedUrl + '" class="article-share-renren" target="_blank" title="����"></a>',
-'<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + encodedUrl + '" class="article-share-qq" target="_blank" title="QQ�ռ�"></a>',
-'<a href="http://qr.liantu.com/api.php?text=' + encodedUrl + '" class="article-share-wechat" target="_blank" title="΢��"></a>',"><i class="fa fa-empty"></i><p>Results not found!</p></div>';
-        }
+            html = '<div class="'<></a>',"><i class="fa fa-empty"></i><p>Results not found!</p></div>';
+        }	
         searchResult.innerHTML = html;
     }
     function tpl(html, data) {
